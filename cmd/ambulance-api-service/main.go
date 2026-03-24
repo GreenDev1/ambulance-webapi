@@ -6,7 +6,7 @@ import (
     "strings"
     "github.com/gin-gonic/gin"
     "github.com/GreenDev1/ambulance-webapi/api"
-    "github.com/Greendev1/ambulance-webapi/internal/ambulance_wl"
+    "github.com/GreenDev1/ambulance-webapi/internal/ambulance_wl"
 )
 
 func main() {
