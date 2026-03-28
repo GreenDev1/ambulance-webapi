@@ -3,7 +3,7 @@ package ambulance_wl
 import (
 	"net/http"
 
-	"github.com/<github_id>/ambulance-webapi/internal/db_service"
+	"github.com/GreenDev1/ambulance-webapi/internal/db_service"
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
 )
