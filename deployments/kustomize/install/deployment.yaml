@@ -80,7 +80,7 @@ spec:
       volumes:
       - name: init-scripts
         configMap:
-          name: <pfx>-ambulance-webapi-mongodb-init
+          name: nl-ambulance-webapi-mongodb-init
       initContainers:
       - name: init-mongodb
         image: mongo:latest
